@@ -1,0 +1,11 @@
+{
+  "jsonrpc": "2.0",
+  "id": "3",
+  "method": "tool",
+  "params": {
+    "name": "get_categories",
+    "parameters": {
+      "type": "expense"
+    }
+  }
+}

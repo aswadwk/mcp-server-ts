@@ -1,0 +1,15 @@
+{
+  "jsonrpc": "2.0",
+  "id": "2",
+  "method": "tool",
+  "params": {
+    "name": "create_expense",
+    "parameters": {
+      "amount": 75000,
+      "category_id": "cat-001",
+      "sub_category_id": "subcat-001",
+      "description": "Makan siang di restoran",
+      "receipt_date": "2025-05-02"
+    }
+  }
+}

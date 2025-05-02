@@ -1,0 +1,12 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "method": "tool",
+  "params": {
+    "name": "get_last_transaction",
+    "parameters": {
+      "transaction_type": "expense",
+      "limit": 2
+    }
+  }
+}
